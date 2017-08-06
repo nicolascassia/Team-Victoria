@@ -1,1 +1,0 @@
-Carpeta para Herramientas de Base Datos que nos parezcan de utilidad.
