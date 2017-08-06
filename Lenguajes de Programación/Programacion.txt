@@ -1,1 +1,0 @@
-Carpeta para info/comilador/interprete/bibliotecas sobre lenguajes que nos parezcan de utilidad.
