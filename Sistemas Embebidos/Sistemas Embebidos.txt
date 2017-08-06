@@ -1,1 +1,0 @@
-Carpeta para info de sistemas embebidos que nos parezcan de utilidad.
